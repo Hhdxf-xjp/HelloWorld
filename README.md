@@ -1,6 +1,4 @@
 # HelloWorld
 My First Project 。
 
-进行远程修改
-
-啊手动阀
+其他人更新了代码
